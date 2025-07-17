@@ -1,0 +1,169 @@
+1. Bangalore
+Location: Karnataka ,India
+type: domestic
+Price Range: $1,200 - $1,800 for a 4-5-day trip
+
+Hotel Listings:
+Neon Lights Hotel: $250/night - Features smart rooms, a rooftop bar, and a tech museum.
+
+Futuristic Inn: $200/night - Offers high-tech amenities, a VR gaming room, and a robot concierge.
+
+Digital Oasis: $220/night - Includes a digital library, automated check-in, and a smart gym.
+
+Travel Advice:
+Hotspots: Visit the AI Expo, explore the Smart Park, and dine at Robot Café.
+
+Tips: Bring your gadgets, power banks, and comfortable walking shoes. Book tech tours in advance.
+
+2. Hyderabad
+Location: Telangana , india
+type: domestic
+Price Range: $700 - $1,000 for a 3-day trip
+
+Hotel Listings:
+Country Cottage: $150/night - Offers rustic cabins, farm tours, and homemade breakfast.
+
+Pastoral Inn: $130/night - Features cozy rooms, a petting zoo, and countryside views.
+
+Field View Lodge: $140/night - Includes nature walks, farm-to-table dining, and a fireplace lounge.
+
+Travel Advice:
+Hotspots: Explore the Local Farm Markets, visit the Flower Fields, and enjoy a bonfire night.
+
+Tips: Pack casual wear, outdoor gear, and a camera. Experience local farm activities.
+
+3. Mumbai
+Location: Maharashtra, India 
+type: domestic
+Price Range: $900 - $1,200 for a 4-day trip
+
+Hotel Listings:
+Historic Hotel: $200/night - Features vintage rooms, a heritage museum, and guided tours.
+
+Cultural Inn: $180/night - Offers themed rooms, cultural shows, and traditional cuisine.
+
+Artifact Lodge: $190/night - Includes complimentary breakfast, a cultural library, and antique decor.
+
+Travel Advice:
+Hotspots: Visit the Heritage Museum, explore the Ancient Ruins, and attend a Cultural Festival.
+
+Tips: Bring comfortable walking shoes, a notebook, and a camera. Respect local customs and traditions.
+
+4. Singapore
+Location: Singapore
+type: International
+Price Range: $1,000 - $1,500 for a 4-day trip
+
+Hotel Listings:
+Sky High Hotel: $250/night - Features panoramic city views, a rooftop pool, and a modern art gallery.
+
+Urban Retreat: $200/night - Offers chic rooms, a fitness center, and a sky bar.
+
+City Lights Inn: $210/night - Includes a business lounge, a contemporary restaurant, and a smart room system.
+
+Travel Advice:
+Hotspots: Visit the Skyline Tower, explore the Modern Art Museum, and dine at the Sky Lounge.
+
+Tips: Pack smart casual wear, a good camera, and comfortable shoes. Book city tours in advance.
+
+5. Tokyo 
+Location: Japan. 
+type: International
+Price Range: $850 - $1,200 for a 3-day trip
+
+Hotel Listings:
+Harbor View Hotel: $180/night - Features ocean-view rooms, a seafood restaurant, and boat tours.
+
+Marina Inn: $160/night - Offers waterfront cabins, fishing trips, and a beach bar.
+
+Seaside Lodge: $170/night - Includes complimentary breakfast, a marina, and beach access.
+
+Travel Advice:
+Hotspots: Explore the Harbor Market, visit the Lighthouse, and enjoy a sunset cruise.
+
+Tips: Bring beachwear, sunscreen, and a hat. Plan water activities ahead of time.
+
+6. London
+Location: England, United States.
+type: International
+Price Range: $1,200 - $1,600 for a 4-day trip
+
+Hotel Listings:
+Innovate Hotel: $240/night - Features tech-themed rooms, an innovation lab, and a smart lounge.
+
+Silicon Suites: $220/night - Offers high-tech amenities, a VR center, and a digital art gallery.
+
+Future Inn: $230/night - Includes a tech library, automated services, and a rooftop garden.
+
+Travel Advice:
+Hotspots: Visit the Tech Museum, explore the Innovation Park, and attend a Startup Expo.
+
+Tips: Pack your gadgets, power banks, and business casual attire. Network with local tech enthusiasts.
+
+7. Shanghai
+Location: China.
+type: International
+Price Range: $1000 - $1,100 for a 3-day trip
+
+Hotel Listings:
+Antique Inn: $170/night - Features period decor, a history room, and guided city tours.
+
+Old Manor Lodge: $150/night - Offers vintage rooms, historic sites, and a traditional restaurant.
+
+Heritage Hotel: $160/night - Includes complimentary breakfast, a heritage library, and antique furniture.
+
+Travel Advice:
+Hotspots: Explore the Historic District, visit the Old Castle, and enjoy a traditional performance.
+
+Tips: Bring comfortable walking shoes, a camera, and a history guide. Respect local customs.
+
+8. Sydney  
+Location: Australia 
+type: International
+Price Range: $700 - $1,000 for a 4-day trip
+
+Hotel Listings:
+Meadow Lodge: $160/night - Offers farmhouse rooms, nature walks, and a garden restaurant.
+
+Countryside Inn: $140/night - Features cozy cabins, farm tours, and a bonfire area.
+
+Greenfield Retreat: $150/night - Includes breakfast, a petting farm, and a countryside view.
+
+Travel Advice:
+Hotspots: Visit the Local Farms, explore the Nature Trails, and enjoy a countryside picnic.
+
+Tips: Pack casual wear, outdoor gear, and a camera. Participate in local farm activities.
+
+9. Darjeeling
+Location: India.
+type: domestic
+Price Range: $1,100 - $1,500 for a 4-day trip
+
+Hotel Listings:
+City Center Hotel: $230/night - Features modern rooms, a rooftop bar, and a fitness center.
+
+Downtown Inn: $200/night - Offers chic rooms, a business lounge, and a city tour service.
+
+Metro Suites: $220/night - Includes complimentary breakfast, a sky bar, and a smart room system.
+
+Travel Advice:
+Hotspots: Visit the Central Park, explore the City Museum, and dine at the Rooftop Restaurant.
+
+Tips: Pack smart casual wear, a good camera, and comfortable shoes. Book city tours in advance.
+
+10. Sikkim
+Location: India.
+type: domestic
+Price Range: $800 - $1,200 for a 3-day trip
+
+Hotel Listings:
+Valley Inn: $170/night - Features scenic views, a fireplace, and guided nature walks.
+
+Village Lodge: $150/night - Offers cozy rooms, a garden, and local cuisine.
+
+Scenic Retreat: $160/night - Includes breakfast, a nature trail, and a fireplace lounge.
+
+Travel Advice:
+Hotspots: Explore the Scenic Trails, visit the Village Market, and enjoy a bonfire night.
+
+Tips: Bring comfortable walking shoes, outdoor gear, and a camera. Experience local village life.

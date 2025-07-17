@@ -1,0 +1,183 @@
+1. Oasis Beach
+Location: Silicon City ,China
+type: International
+
+Price Range: $800 - $1,200 for a 4-5-day trip
+
+Hotel Listings:
+Ocean Breeze Resort: $200/night - Features beachfront rooms, a spa, and a rooftop restaurant.
+
+Seaside Villa: $150/night - Offers private villas, a pool, and direct beach access.
+
+Coral Reef Hotel: $180/night - Includes complimentary breakfast, water sports facilities, and a bar.
+
+Travel Advice:
+Hotspots: Visit the Golden Lagoon for snorkeling, enjoy a sunset cruise, and explore the local market for handmade crafts.
+
+Tips: Pack sunscreen, swimwear, and light clothing. Consider renting a bike to explore the island.
+
+2. Bondi Beach
+Location: Sydney , Australia.
+type: International
+
+Price Range: $1,000 - $1,500 for a 3-4-day trip
+
+Hotel Listings:
+Blue Lagoon Resort: $250/night - Features overwater bungalows, a gourmet restaurant, and a private beach.
+
+Sunset Bay Hotel: $180/night - Offers ocean-view rooms, a pool, and a fitness center.
+
+Palm Paradise Inn: $160/night - Includes tropical gardens, beach access, and complimentary breakfast.
+
+Travel Advice:
+Hotspots: Explore the Coral Gardens for diving, visit the Lighthouse Point for panoramic views, and enjoy local seafood at Beachfront Bistro.
+
+Tips: Bring a camera for stunning photographs, pack light summer clothing, and don't forget your snorkeling gear.
+
+3. Waikiki Beach 
+Location: Hawaii , USA 
+type: International
+
+Price Range: $900 - $1,300 for a 6-day trip
+
+Hotel Listings:
+Emerald Sands Resort: $220/night - Features luxury suites, a beachfront bar, and a spa.
+
+Lagoon Retreat: $170/night - Offers cozy cabins, a private beach area, and water sports equipment.
+
+Seaview Hotel: $160/night - Includes ocean-view rooms, a pool, and a buffet breakfast.
+
+Travel Advice:
+Hotspots: Visit the Dolphin Cove for swimming with dolphins, hike to the Emerald Falls, and enjoy a beach bonfire party.
+
+Tips: Pack comfortable walking shoes, swimwear, and a hat. Book activities in advance to secure spots.
+
+4. Juhu Beach
+Location: Mumbai , India
+type: domestic
+Price Range: $850 - $1,200 for a 5-day trip
+
+Hotel Listings:
+Silver Shore Resort: $210/night - Features oceanfront rooms, a pool, and a seafood restaurant.
+
+Beachcomber Inn: $160/night - Offers rustic cottages, beach access, and complimentary breakfast.
+
+Wavefront Hotel: $180/night - Includes modern rooms, a fitness center, and a rooftop bar.
+
+Travel Advice:
+Hotspots: Explore the Marine Reserve for snorkeling, visit the Old Lighthouse for historical insights, and enjoy a beachside BBQ.
+
+Tips: Bring sunscreen, casual beachwear, and an underwater camera. Check local events for beach festivals.
+
+
+5.  White Beach 
+Location: Boracay , Philippines
+type: International
+
+Price Range: $850 - $1,200 for a 5-day trip
+
+Hotel Listings:
+Silver Shore Resort: $210/night - Features oceanfront rooms, a pool, and a seafood restaurant.
+
+Beachcomber Inn: $160/night - Offers rustic cottages, beach access, and complimentary breakfast.
+
+Wavefront Hotel: $180/night - Includes modern rooms, a fitness center, and a rooftop bar.
+
+Travel Advice:
+Hotspots: Explore the Marine Reserve for snorkeling, visit the Old Lighthouse for historical insights, and enjoy a beachside BBQ.
+
+Tips: Bring sunscreen, casual beachwear, and an underwater camera. Check local events for beach festivals.
+
+6.Nusa Due Beach
+Location: Bali, Indonesia.
+type: International
+
+Price Range: $800 - $1,200 for a 3-5-day trip
+
+Hotel Listings:
+Ocean Breeze Resort: $200/night - Features beachfront rooms, a spa, and a rooftop restaurant.
+
+Seaside Villa: $150/night - Offers private villas, a pool, and direct beach access.
+
+Coral Reef Hotel: $180/night - Includes complimentary breakfast, water sports facilities, and a bar.
+
+Travel Advice:
+Hotspots: Visit the Golden Lagoon for snorkeling, enjoy a sunset cruise, and explore the local market for handmade crafts.
+
+Tips: Pack sunscreen, swimwear, and light clothing. Consider renting a bike to explore the island.
+
+
+7. Waikiki Beach 
+Location: Hawaii , USA 
+type: International
+
+Price Range: $900 - $1,300 for a 6-day trip
+
+Hotel Listings:
+Emerald Sands Resort: $220/night - Features luxury suites, a beachfront bar, and a spa.
+
+Lagoon Retreat: $170/night - Offers cozy cabins, a private beach area, and water sports equipment.
+
+Seaview Hotel: $160/night - Includes ocean-view rooms, a pool, and a buffet breakfast.
+
+Travel Advice:
+Hotspots: Visit the Dolphin Cove for swimming with dolphins, hike to the Emerald Falls, and enjoy a beach bonfire party.
+
+Tips: Pack comfortable walking shoes, swimwear, and a hat. Book activities in advance to secure spots.
+
+8.Patong Beach
+Location: Phuket, Thailand 
+type: International
+
+Price Range: $900 - $1,300 for a 6-day trip
+
+Hotel Listings:
+Emerald Sands Resort: $220/night - Features luxury suites, a beachfront bar, and a spa.
+
+Lagoon Retreat: $170/night - Offers cozy cabins, a private beach area, and water sports equipment.
+
+Seaview Hotel: $160/night - Includes ocean-view rooms, a pool, and a buffet breakfast.
+
+Travel Advice:
+Hotspots: Visit the Dolphin Cove for swimming with dolphins, hike to the Emerald Falls, and enjoy a beach bonfire party.
+
+Tips: Pack comfortable walking shoes, swimwear, and a hat. Book activities in advance to secure spots.
+
+
+9. Marina Beach
+Location: Chennai
+type: domestic
+
+Price Range: $1,000 - $1,500 for a 3-4-day trip
+
+Hotel Listings:
+Blue Lagoon Resort: $250/night - Features overwater bungalows, a gourmet restaurant, and a private beach.
+
+Sunset Bay Hotel: $180/night - Offers ocean-view rooms, a pool, and a fitness center.
+
+Palm Paradise Inn: $160/night - Includes tropical gardens, beach access, and complimentary breakfast.
+
+Travel Advice:
+Hotspots: Explore the Coral Gardens for diving, visit the Lighthouse Point for panoramic views, and enjoy local seafood at Beachfront Bistro.
+
+
+
+
+10.  Calangute beach
+Location: goa
+type: domestic
+
+Price Range: $1,000 - $1,500 for a 3-4-day trip
+
+Hotel Listings:
+Blue Lagoon Resort: $250/night - Features overwater bungalows, a gourmet restaurant, and a private beach.
+
+Sunset Bay Hotel: $180/night - Offers ocean-view rooms, a pool, and a fitness center.
+
+Palm Paradise Inn: $160/night - Includes tropical gardens, beach access, and complimentary breakfast.
+
+Travel Advice:
+Hotspots: Explore the Coral Gardens for diving, visit the Lighthouse Point for panoramic views, and enjoy local seafood at Beachfront Bistro.
+
+
+

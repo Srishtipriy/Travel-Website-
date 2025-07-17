@@ -1,0 +1,9 @@
+"Let's plan your perfect vacation! Please provide the following details:
+
+Budget: What is your budget range for the trip?
+
+Type of Place: What type of place are you interested in? (e.g., beach, mountain, city, Snowy lands)
+
+Number of Days: How many days do you want your vacation to be? (range from 2 to 6 days)
+
+Once I have these details, I can help you find the best options for your getaway! 😊🏖️🏔️🏙️🌾"
